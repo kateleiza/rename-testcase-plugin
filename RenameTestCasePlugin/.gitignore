@@ -1,0 +1,8 @@
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/misc.xml
+
+# IntelliJ
+out/
+
+.DS_Store
