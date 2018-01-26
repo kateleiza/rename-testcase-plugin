@@ -4,5 +4,6 @@
 
 # IntelliJ
 out/
+src/*.jar
 
 .DS_Store
